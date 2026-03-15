@@ -41,4 +41,5 @@ Note: Taxes are hard-capped at 50% for security. All taxes will be completely di
 
 Basescan: 0x526e5FC8a66Ae67F5b8d82379337f61122947dc6
 Documentation: https://liqwhale.gitbook.io/liqwhale/
-Community: X & Telegram @LiqWhalecoin
+Community: X       @liqwhale
+          Telegram @LiqWhalecoin
